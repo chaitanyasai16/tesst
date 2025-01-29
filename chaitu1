@@ -1,1 +1,5 @@
-welcome to deveops 1
+welcome to deveops git
+if a>b
+print devops class 1
+if b>a
+print devops class 3
